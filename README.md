@@ -1,1 +1,1 @@
-Zuri Class on Django Authentication
+Zuri Class on Django Form Authentication
